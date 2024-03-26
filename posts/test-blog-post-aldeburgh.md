@@ -5,3 +5,5 @@ tags:
   - post
 ---
 ![](/japan/media/1000016555.jpg)
+
+![](/japan/media/393346.jpg)
