@@ -22,6 +22,8 @@ module.exports = function(eleventyConfig) {
 
     eleventyConfig.setLibrary("md", markdownLib);
 
+    
+
     return {
         pathPrefix: "/japan/"
     }
