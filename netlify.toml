@@ -11,6 +11,3 @@
 
 
 
-[[redirects]]
-  from = "/japan/*"
-  to = "/:splat"

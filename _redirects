@@ -1,0 +1,2 @@
+# Redirect rules
+/japan/* https://11ty-orh-japan.netlify.app/:splat 200
