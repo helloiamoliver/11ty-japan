@@ -8,3 +8,12 @@
   from = "/*"
   to = "/"
   status = 301
+
+[[redirects]]
+from = "/japan/*"
+to = "https://11ty-orh-japan.netlify.app/:splat"
+status = 200
+
+[[redirects]]
+  from = "/japan/*"
+  to = "/:splat"
