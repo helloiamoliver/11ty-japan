@@ -23,9 +23,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.setLibrary("md", markdownLib);
 
     return {
-        dir: {
-            output: "_site/blog"
-        }
+        pathPrefix: "/blog/"
     }
 
 };
