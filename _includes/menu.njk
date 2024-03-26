@@ -1,12 +1,4 @@
-<ul>
     {% for entry in entries %}
-        <li>
-            {% if entry.url %}
-                <a href="{{ entry.url }}">{{ entry.title }}</a>
-            {% else %}
-                {{ entry.title }}
-            {% endif %}
-
             {% if entry.post_list %}
                 {% set posts = collections[entry.post_list] %}
                 {% if posts %}
@@ -20,11 +12,5 @@
                     </ul>
                 {% endif %}
             {% endif %}
-
-            {% if entry.entries %}
-                {% set entries = entry.entries %}
-                {% include "menu.njk" %}
-            {% endif %}
         </li>
     {% endfor %}
-</ul>

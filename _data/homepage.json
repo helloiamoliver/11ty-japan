@@ -1,13 +1,13 @@
 {
-  "title": "Japan-blog",
-  "subtitle": "demo of a page made with 11ty-no-style-please",
+  "title": "japan-blog",
+  "subtitle": "2024: A journey around Japan.",
   "menu": [
     {
       "title": "read more here",
       "entries": [
         {
-          "title": "github",
-          "url": "http://github.com/stopnoanime/11ty-no-style-please"
+          "title": "about",
+          "url": "/about"
         }
       ]
     },
