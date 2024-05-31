@@ -34,8 +34,8 @@ collections:
                 { label: Title, name: title, widget: string },
                 { label: Url, name: url, widget: string, required: false },
                 { label: Post list, name: post_list, widget: string, required: false },
+              ]}
             ]}
-          ]}
       - label: Site
         name: site
         file: _data/site.json
