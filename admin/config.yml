@@ -5,6 +5,9 @@ backend:
 media_folder: media
 public_folder: /japan/media
 
+
+
+logo_url: https://cdn.oliverhewitt.co.uk/logos/yellow.png
 site_url: https://oliverhewitt.co.uk/japan
 
 media_library:
