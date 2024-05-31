@@ -1,8 +1,3 @@
----
-# generate the yml using 11ty, so we can configure the CMS, from the CMS! idk if it is a good idea...
-permalink: japan/admin/config.yml
----
-
 backend:
   name: git-gateway
   branch: master 
@@ -10,9 +5,7 @@ backend:
 media_folder: media
 public_folder: /japan/media
 
-{% if site.url %}
-site_url: {{ site.url }}
-{% endif %}
+site_url: oliverhewitt.co.uk/japan
 
 collections:
   - label: Posts
