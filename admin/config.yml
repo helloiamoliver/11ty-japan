@@ -5,7 +5,7 @@ backend:
 media_folder: media
 public_folder: /japan/media
 
-site_url: oliverhewitt.co.uk/japan
+site_url: https://oliverhewitt.co.uk/japan
 
 collections:
   - label: Posts
