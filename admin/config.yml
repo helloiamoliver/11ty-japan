@@ -7,6 +7,9 @@ public_folder: /japan/media
 
 site_url: https://oliverhewitt.co.uk/japan
 
+max_file_size: 0
+
+
 collections:
   - label: Posts
     name: posts
