@@ -14,7 +14,7 @@ Washi tape and stamps galore!
 
 > Strolling through gardens  
 > Trees and temples all around  
-> Stationary store!
+> Stationery store!
 
 
 
