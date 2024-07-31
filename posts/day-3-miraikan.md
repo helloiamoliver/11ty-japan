@@ -10,7 +10,3 @@ For me, the highlight has to be the robot dog!!
 
 ![](/japan/media/1000018765.jpg)
 The satellite imagery of the earth over the last 24 hours was also cool!
-
-
-
-
