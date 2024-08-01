@@ -17,7 +17,7 @@ I also bought some stunning fabric from Okadaya, near Shinjuku station.
 After a rest over lunch, we went to the Meiji-jingu shrine. This was nestled in the middle of beautiful woodland, and the light was truly stunning. 
 
 ![](/japan/media/1000018927.jpg)
-From here, we visited the famous Shibuya crossing, and watched from the station as people scrambled across the concrete like hundreds of ants. I was also excited to see the statue to Haku-san, in honour of the dog who continued to go to the station to wait after his owner's death.
+From here, we visited the famous Shibuya crossing, and watched from the station as people scrambled across the concrete like hundreds of ants. I was also excited to see the statue to Hachikō-san, in honour of the dog who continued to go to the station to wait after his owner's death.
 
 ![](/japan/media/1000018946.jpg)
 ![](/japan/media/1000018960.jpg)
