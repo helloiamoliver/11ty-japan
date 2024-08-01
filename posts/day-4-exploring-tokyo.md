@@ -11,6 +11,9 @@ We began the day by visiting the Kando Myojin shrine. This was in the heart of C
 After this, we went to Akhibara, the electric city! Here, we visited a few different shops, including a PC components store and a retro games emporium! It was all pretty crazy, but really fun to explore.
 
 ![](/japan/media/1000018875.jpg)
+I also bought some stunning fabric from Okadaya, near Shinjuku station.
+*Picture to follow*
+
 After a rest over lunch, we went to the Meiji-jingu shrine. This was nestled in the middle of beautiful woodland, and the light was truly stunning. 
 
 ![](/japan/media/1000018927.jpg)
