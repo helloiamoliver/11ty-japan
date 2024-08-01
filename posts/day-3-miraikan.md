@@ -22,4 +22,6 @@ I also managed to get my first two Eki Stamps! One from Tōkyō station, and the
 ![](/japan/media/1000018791.jpg)
 ![](/japan/media/1000018792.jpg)
 
-
+> Welcome to Japan.
+> Singing, dancing robots and
+> The sleek monorail
