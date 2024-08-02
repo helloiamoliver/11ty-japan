@@ -33,6 +33,6 @@ Over the course of the day, we managed to do 11 rides (with some repetition!).
 
 ---
 
-> DisneySea Magic
-> Not much like Disney at all
-> It has far far more
+> DisneySea Magic:
+> Not much like Disney at all - 
+> It has far far more.
