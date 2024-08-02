@@ -16,24 +16,23 @@ We managed to get onto Indiana Jones in under a minute, as we used the barely-us
 We finished the day with the Believe! Sea of Dreams show in the Mediterranean Harbour. This was the huge evening spectacular, and we even paid extra to get seats at the front. However, we didn't realise the 'seated' area meant sat cross legged at the front! It was still enjoyable, and we headed home afterwards. 
 
 ![](/japan/media/1000019237.jpg)
-Over the course of the day, we managed to do 11 rides (with some repetition!).- Journey to the Centre of the Earth
+Over the course of the day, we managed to do 11 rides (with some repetition!).
 
+- Journey to the Centre of the Earth
 - 20,000 Leagues Under the Sea
-
 - Toy Story Mania!
-
 - DisneySea Electric Railway
-
 - Aquatopia
-
 - 20,000 Leagues Under the Sea 
-
 - Caravan Carousel 
-
 - Jasmine's Flying Carpets
-
 - Peter Pan's Neverland Adventure
-
 - Indiana Jones: Temple of the Crystal Skull
-
 - 20,000 Leagues Under the Sea
+
+
+---
+
+> DisneySea Magic
+> Not much like Disney at all
+> It has far far more
