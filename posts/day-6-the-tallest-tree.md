@@ -20,3 +20,9 @@ It was pretty magical looking down on Tokyo from 350m above, and we were lucky e
 After descending once more, we ate in the food hall underneath - I had an excellent Chicken Oyakodon, which really hit the spot!
 
 Overall, a pretty good day!
+
+---
+
+> Towering above -
+> The last night before we go
+> - Tokyo down below
