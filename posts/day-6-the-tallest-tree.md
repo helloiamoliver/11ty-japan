@@ -25,4 +25,4 @@ Overall, a pretty good day!
 
 > Towering above -
 > The last night before we go
-> - Tokyo down below
+> \- Tokyo down below
