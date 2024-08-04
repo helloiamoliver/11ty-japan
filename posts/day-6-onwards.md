@@ -1,5 +1,5 @@
 ---
-title: "Day 6: Onwards!"
+title: "Day 7: Onwards!"
 date: 2024-08-04T20:53:09
 tags:
   - post
