@@ -21,5 +21,5 @@ We're now staying in a beautiful Ryokan in _____, the _______. The views are abs
 ---
 
 > Out in the country
-> The soft patter of the rain
+> Soft pattering of the rain
 > The sunset aglow
