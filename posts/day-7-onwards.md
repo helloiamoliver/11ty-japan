@@ -19,3 +19,7 @@ We're now staying in a beautiful Ryokan in _____, the _______. The views are abs
 ![](/japan/media/1000019565.jpg)
 ![](/japan/media/1000019576.jpg)
 ---
+
+> Out in the country
+> The soft patter of the rain
+> The sunset aglow
