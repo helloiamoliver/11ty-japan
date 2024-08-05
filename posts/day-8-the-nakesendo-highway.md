@@ -25,5 +25,8 @@ Nonetheless, we boarded the train, and began chugging along the rails towards Ta
 
 ![](/japan/media/1000019761.jpg)
 
+---
 
-
+> Sun dappling the track,
+> Going down the ancient highway,
+> The splash of water.
