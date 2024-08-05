@@ -13,7 +13,7 @@ We headed up to the Matsumoto Castle, and after a quick Konbini lunch, we headed
 We explored around here for an hour, before going back to the station and boarding our Shinano #18 towards Nagiso.
 
 ![](/japan/media/1000019522.jpg)
-We're now staying in a beautiful Ryokan in _____, the _______. The views are absolutely stunning, and we had a delicious evening meal. There are six rooms in the entire guesthouse, and it feels very quiet (the soothing rain outside also helps!).
+We're now staying in the beautiful Onyado Daikchi Ryokan in Tsumago. The views are absolutely stunning, and we had a delicious evening meal. There are six rooms in the entire guesthouse, and it feels very quiet (the soothing rain outside also helps!).
 
 ![](/japan/media/1000019555.jpg)
 ![](/japan/media/1000019565.jpg)
