@@ -13,3 +13,9 @@ Boarding the plane at Heathrow.
 
 ![](/japan/media/1000018681.jpg)
 A stunning view of Mount Fuji on approach into Tokyo!
+
+---
+
+> The sleepless hours pass,
+> Endless minutes looping on:
+> Fuji to the left.
