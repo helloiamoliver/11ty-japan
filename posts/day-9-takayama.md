@@ -28,5 +28,9 @@ I really liked Takayama (particularly the shopping element), although it didn't 
 
 ![](/japan/media/1000019976.jpg)
 
+---
 
+> Dark wood lines the street,
+> Ribbons twisting in the wind.
+> Checkout? Please, this way.
 
