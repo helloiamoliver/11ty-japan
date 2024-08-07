@@ -18,8 +18,7 @@ It was quite fun to potter around, although it was incredibly hot. We ducked int
 
 
 It was good to see, although probably not one of my highlights of the trip so far!
-We then got back on the bus, and traveled another hour to Kanazawa. After a terrifying taxi ride through the city (apparently pedestrian crossings are just advisory), we arrived at the hotel, and had some downtime in the af
-ternoon.
+We then got back on the bus, and traveled another hour to Kanazawa. After a terrifying taxi ride through the city (apparently pedestrian crossings are just advisory), we arrived at the hotel, and had some downtime in the afternoon.
 
 ---
 
