@@ -13,7 +13,7 @@ It was fascinating to see what a huge part samurai played in the Japanese feudal
 We explored the streets of Kanazawa, before visiting the descendants of a samurai. We were lucky enough to be able to see (and hold!) the swords that they had. 
 
 ![](/japan/media/1000020192.jpg)
-During WW2, swords like these were melted down for ammunition. However, these ones were hidden at the back of the warehouse until ___ discovered them 20 years ago!
+During WW2, swords like these were melted down for ammunition. However, these ones were hidden at the back of the warehouse until Masa discovered them 20 years ago!
 
 ![](/japan/media/1000020201.jpg)
 After this, we went over to the 21st Century Museum of Contemporary Art, and explored the art present in their collections. My favourite piece was the swimming pool, with added trickery!
