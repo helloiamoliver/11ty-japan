@@ -20,4 +20,12 @@ After this, we went over to the 21st Century Museum of Contemporary Art, and exp
 
 ![](/japan/media/1000020240.jpg)
 ![](/japan/media/1000020257.jpg)
-All in all, another great day.!
+
+This evening, we then headed out to Sushi Ippei, where I had the best sushi I've ever had (also endorsed by the German cargo-pilot we met!). Some of the most beautiful fish, and genuinely delicious.
+
+
+All in all, another great day!
+
+> Fresh, clean, sushi feast;
+> Bam! An kick of wasabi
+> That makes my mouth burn!
