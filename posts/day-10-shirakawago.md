@@ -21,7 +21,9 @@ It was good to see, although probably not one of my highlights of the trip so fa
 ![](/japan/media/1000019976.jpg)
 ---
 
-> Thatched rooves slope down, The straw baking in the sun: Many feet stomp past.
+> Thatched rooves slope down,
+> the straw baking in the sun:
+> Many feet stomp past.
 
 
 
