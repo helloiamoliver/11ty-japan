@@ -22,6 +22,8 @@ We then began to head back to the hotel, the heat (and humidity) of the midday s
 In the early evening, we headed back out towards the Higashi Chaya district. We ate at an excellent tapas restaurant, and had some truly delicious tapas, before strolling through the geisha area in the evening breeze.
 
 ![](/japan/media/1000020408.jpg)
+
+We were lucky enough to be able to see a little of a Geisha performance from across the river, with the beautiful musical instruments stunning us all. We continued wandering through the peaceful streets, and then headed back for the day.
+
 ![](/japan/media/1000020432.jpg)
 ![](/japan/media/1000020453.jpg)
-We were lucky enough to be able to see a little of a Geisha performance from across the river, with the beautiful musical instruments stunning us all. We continued wandering through the peaceful streets, and then headed back for the day.
