@@ -7,7 +7,7 @@ tags:
 We headed out fairly promptly this morning, hoping to avoid the boiling sun! We wandered up the main street to the Omicho Market, Kanazawa'd largest fresh food market. 
 
 ![](/japan/media/1000020288.jpg)
-It was great to see it in the morning rush, with a definite business! We then went on up to the Higashi Chaya District, which is the main Geisha (or Geiko as they're known locally) area. Geisha are highly-trained professional entertainers, who often attend meals, banquets, and other occasions.
+It was great to see it in the morning rush, with a definite busyness! We then went on up to the Higashi Chaya District, which is the main Geisha (or Geiko as they're known locally) area. Geisha are highly-trained professional entertainers, who often attend meals, banquets, and other occasions.
 
 ![](/japan/media/1000020363.jpg)
 We explored the area for a while, and visited a couple of museums to learn some more about the art. This was fascinating. I then got a gold-leaf ice cream, which was quite an experience!
