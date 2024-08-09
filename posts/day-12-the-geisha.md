@@ -27,3 +27,9 @@ We were lucky enough to be able to see a little of a Geisha performance from acr
 
 ![](/japan/media/1000020432.jpg)
 ![](/japan/media/1000020453.jpg)
+
+---
+
+> The light river breeze
+> And twang of the shamisen;
+> Patter of applause.
