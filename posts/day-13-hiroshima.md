@@ -21,7 +21,9 @@ We then walked through the Peace Park, and saw the ruins of the Atomic Bomb Dome
 ---
 
 
-
-
-
 After this, we hopped onto the tram, and went back to the hotel for the evening, via a Ippudo ramen! 
+
+
+> Quick, clean, efficient:
+> The smooth Shinkansen slide in,
+> The brakes crying out.
