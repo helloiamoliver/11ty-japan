@@ -18,8 +18,8 @@ We visited the Peace Memorial Museum, which held harrowing accounts of the day t
 We then walked through the Peace Park, and saw the ruins of the Atomic Bomb Dome. The dome has been preserved in it's state when the bomb dropped, and serves as a poignant reminder of the destruction the bomb caused.
 
 ![](/japan/media/1000020602.jpg)
----
 
+---
 
 After this, we hopped onto the tram, and went back to the hotel for the evening, via a Ippudo ramen! 
 
