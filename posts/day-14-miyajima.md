@@ -23,3 +23,9 @@ In the evening, we ventured back outside, boarding a bus to the AEON Mall Hirosh
 
 ![](/japan/media/1000020775.jpg)
 All in all, another great day!
+
+---
+
+> They creep up behind,
+> And snatch food from your own hand:
+> Greedy deer burp.
