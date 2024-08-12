@@ -28,7 +28,9 @@ _For fans of Cabin Pressure, the Auspicious Pig and Whistle seems to be located 
 
 ![](/japan/media/1000020945.jpg)
 
-> Kyoto: Like Tokyo, The capital in the west, But far more busy!
+> Kyoto: Like Tokyo,
+> The capital in the west,
+> But far more busy!
 
 
 
