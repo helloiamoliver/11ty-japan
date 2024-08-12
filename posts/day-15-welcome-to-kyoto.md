@@ -37,21 +37,9 @@ We ate at *curry & tempura koisus*, which as the Google reviews will attest, was
 All in all, another great day!
 
 
-
-
-
 ---
 
 
-
-
-
 > Kyoto: Like Tokyo,
-
 > The capital in the west,
-
 > But far more busy!
-
-
-
-
