@@ -21,9 +21,14 @@ We ate at _curry & tempura koisus_, which as the Google reviews will attest, was
 ![](/japan/media/1000020909.jpg)
 All in all, another great day!
 
+
+*For fans of Cabin Pressure, the Auspicious Pig and Whistle seems to be located in Kyoto...*
+![](/japan/media/1000020909.jpg)
 ---
 
-> Kyoto: Like Tokyo, The capital in the west, But far more busy!
+> Kyoto: Like Tokyo,
+> The capital in the west,
+> But far more busy!
 
 
 
