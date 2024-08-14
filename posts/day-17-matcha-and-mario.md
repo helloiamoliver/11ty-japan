@@ -23,11 +23,11 @@ It was really nice to take a stroll through the covered market, and peek into al
 Our final stop for the evening was the Nintendo Store - Nintendo's HQ is in Kyoto, so it was exciting to be able to visit their store in the city where it all started. The shop was packed, with die-hard Nintendo fans turning it into a pedestrian version of Mariokart to get to the checkout! It was really great to visit though!
 
 ![](/japan/media/1000021243.jpg)
+
 ---
 
 ![](/japan/media/1000021246.jpg)
-The Nintendo store:
 
-From Mario to Zelda,
-
-There's something for all!
+> The Nintendo store:
+> From Mario to Zelda,
+> There's something for all!
