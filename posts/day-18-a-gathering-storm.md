@@ -19,12 +19,8 @@ The station (unsurprisingly!) was packed, and we'd even had to upgrade to first 
 ![](/japan/media/1000021423.jpg)
 Overall, a change of plan, but a good day nonetheless.
 
-
-
-
+---
 
 > Grinding to a halt,
-
 > You batten down the hatches:
-
 > The typhoon approaches.
