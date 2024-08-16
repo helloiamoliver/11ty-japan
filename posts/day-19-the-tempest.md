@@ -29,11 +29,14 @@ Despite the mad rush through the rain, the hotel is great! While we waited to ch
 We also had an absolutely excellent evening meal at the hotel, which encompassed a wide variety of Japanese dishes! I thought the crab was particularly special!
 
 ![](/japan/media/1000021529.jpg)
+
 In spite of the absolutely torrential rain, it was a very good (and pretty relaxing!) day!
 
 ---
 
-> Buckets of water No pitter or patter here: The rain falls, ceaseless.
+> Buckets of water
+> No pitter or patter here:
+> The rain falls, ceaseless.
 
 
 
