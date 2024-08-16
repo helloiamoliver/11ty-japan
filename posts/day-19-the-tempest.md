@@ -18,3 +18,9 @@ After breakfast, we hopped onto the Hakonetozan line to head up the hills toward
 
 ![](/japan/media/1000021546.jpg)
 In spite of the absolutely torrential rain, it was a very good (and pretty relaxing!) day!
+
+---
+
+> Buckets of water
+> No pitter or patter here:
+> The rain falls, ceaseless.
