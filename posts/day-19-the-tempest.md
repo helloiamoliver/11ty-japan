@@ -26,6 +26,10 @@ Despite the mad rush through the rain, the hotel is great! While we waited to ch
 
 ![](/japan/media/1000021546.jpg)
 
+We also had an absolutely excellent evening meal at the hotel, which encompassed a wide variety of Japanese dishes! I thought the crab was particularly special! 
+
+
+
 In spite of the absolutely torrential rain, it was a very good (and pretty relaxing!) day!
 
 ---
