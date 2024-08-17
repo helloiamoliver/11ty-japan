@@ -29,5 +29,9 @@ Overall, a really fab final day, wrapping up a fab trip!
 
 ![](/japan/media/1000021718.jpg)
 
+---
 
+> The very last day:
+> With Picasso and pirates,
+> And ropeways too!
 
