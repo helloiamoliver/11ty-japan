@@ -17,3 +17,9 @@ After a long 14 hours, we approached Heathrow by flying over central London, wit
 
 ![](/japan/media/pxl_20240818_202541811.mp.jpg)
 And then, home.
+
+---
+
+> Twinkling city lights,
+> London stretched out below:
+> Approaching Heathrow.
