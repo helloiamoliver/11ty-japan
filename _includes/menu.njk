@@ -3,7 +3,7 @@
                 {% set posts = collections[entry.post_list] %}
                 {% if posts %}
                     <ul>
-                        {% for post in posts | reverse %}
+                        {% for post in posts  %}
                             <li>
                                 {# <time datetime="{{ post.date }}">{{ post.date | formatDate }}</time> #}
                                 <a href="{{ post.url | url }}">{{ post.data.title }}</a>
