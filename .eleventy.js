@@ -1,5 +1,7 @@
 const { DateTime } = require("luxon");
 const markdownIt = require("markdown-it");
+const { execSync } = require('child_process')
+
 
 module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("css");
@@ -23,10 +25,11 @@ module.exports = function(eleventyConfig) {
 
     eleventyConfig.setLibrary("md", markdownLib);
 
-    
+    eleventyConfig.on('eleventy.after', () => {
+        execSync(`npx pagefind --site _site --glob \"**/*.html\"`, { encoding: 'utf-8' })
+    })
 
     return {
-        pathPrefix: "/japan/"
     }
 
 
