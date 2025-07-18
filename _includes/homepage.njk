@@ -2,7 +2,7 @@
 layout: base.njk
 ---
 <header>
-    <h1>{{ homepage.title or site.title }}</h1>
+    <h1 data-pagefind-weight="2">{{ homepage.title or site.title }}</h1>
 
     {% set subtitle = homepage.subtitle%}
     {% if subtitle %}
