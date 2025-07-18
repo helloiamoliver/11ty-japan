@@ -3,7 +3,7 @@ layout: base.njk
 ---
 <a href="{{ '/' | url }}" data-pagefind-ignore>{{ site.back_home_text }}</a>
 
-<article>
+<article data-pagefind-filter="type:Post">
   <p class="post-meta" data-pagefind-ignore>
     <time datetime="{{ page.date }}">{{ page.date | formatDate }}</time>
   </p>
